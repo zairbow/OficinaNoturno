@@ -8,3 +8,4 @@ def time(time):
 
 
 time(input("Qual é o seu time ? "))
+print("POGGERS")
